@@ -39,7 +39,7 @@ button#button {
 }
 
 button#button:hover {
-	box-shadow: 3px 3px 3px whitesmoke;
+	box-shadow: 2px 2px 10px grey;
 	border-color: green;
 	transition-duration: 0.2s;
 }
