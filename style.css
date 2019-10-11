@@ -29,7 +29,7 @@ header {
 	margin-right: 30px;
 }
 
-#button {
+button#button {
 	border: 2px solid greenyellow;
 	border-radius: 3px;
 	vertical-align: -webkit-baseline-middle;
@@ -37,6 +37,17 @@ header {
 	margin: 20px;
 	width: 125px;
 }
+
+button#button:hover {
+	box-shadow: 3px 3px 3px whitesmoke;
+	border-color: green;
+	transition-duration: 0.2s;
+}
+
+.header-ad {
+	height: 69px;
+	padding-top: 10px;
+	text-align: center;
 
 .topbar-social {
 	float: right;
