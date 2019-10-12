@@ -45,8 +45,9 @@ button#button:hover {
 }
 
 .header-ad {
-	height: 69px;
-	padding-top: 10px;
+	height: 60px;
+	padding-top: 5px;
+	padding-bottom: 5px;
 	text-align: center;
 }
 
