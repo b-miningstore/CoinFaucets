@@ -241,3 +241,11 @@ a:visited {
 #faucet_wrap3 {
 	margin-top: 20px;
 }
+
+script[src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"] {
+	display: none !important;
+}
+
+ins.adsbygoogle {
+	display: none !important;
+}
