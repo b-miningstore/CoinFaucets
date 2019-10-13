@@ -241,3 +241,9 @@ a:visited {
 #faucet_wrap3 {
 	margin-top: 20px;
 }
+
+#iframe-faucet {
+	height: -webkit-fill-available;
+	width: -webkit-fill-available;
+	min-height: 100vh;
+}
