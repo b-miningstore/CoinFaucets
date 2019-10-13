@@ -1,5 +1,5 @@
 html {
-	margin-top: -21px;
+	margin-top: 0px;
 }
 
 header {
@@ -10,7 +10,6 @@ header {
 	width: 100%;
 	background-image: linear-gradient(rgba(82, 87, 96, 0.9), rgba(82, 87, 96, 1), rgba(82, 87, 96, 1), rgba(82, 87, 96, 0.9));
 	border: none;
-	margin-bottom: 30px;
 	color: whitesmoke;
 	border-bottom: #dddddd;
 }
