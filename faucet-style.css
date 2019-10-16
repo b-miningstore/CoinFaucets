@@ -1,0 +1,248 @@
+html {
+	margin-top: 0px;
+}
+
+header {
+	font-family: 'Ubuntu';
+	font-size: 18px;
+	text-align: left;
+	float: left;
+	width: 100%;
+	background-image: linear-gradient(rgba(82, 87, 96, 0.9), rgba(82, 87, 96, 1), rgba(82, 87, 96, 1), rgba(82, 87, 96, 0.9));
+	border: none;
+	color: whitesmoke;
+	border-bottom: #dddddd;
+}
+
+#logo {
+	width: 100%;
+	max-width: 300px;
+}
+
+.logo {
+	width: 100%;
+	max-width: 300px;
+	margin-top: 29px;
+	margin-bottom: 29px;
+	margin-left: 30px;
+	margin-right: 30px;
+}
+
+button#button {
+	border: 2px solid greenyellow;
+	border-radius: 3px;
+	vertical-align: -webkit-baseline-middle;
+	padding: 5px;
+	margin: 20px;
+	width: 125px;
+}
+
+button#button:hover {
+	box-shadow: 2px 2px 10px grey;
+	border-color: green;
+	transition-duration: 0.2s;
+}
+
+.header-ad {
+	height: 60px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	text-align: center;
+}
+
+.topbar-social {
+	float: right;
+	margin-top: 50px;
+	margin-bottom: 51px;
+	margin-left: 30px;
+	margin-right: 30px;
+}
+
+.topbar-social a:hover {
+	color: white;
+	transition: 0.1s;
+}
+
+body {
+	font-family: 'Ubuntu';
+	font-size: 16px;
+	text-align: center;
+	margin: 0px;
+}
+
+.sidebar-left {
+	float: left;
+	width: 20%;
+}
+
+.sidebar-right {
+	float: left;
+	width: 20%;
+}
+
+.sidebar {
+	border-top: 2px solid black;
+	margin: 10px;
+	padding-top: 20px;
+}
+
+.column-20 {
+	float: left;
+	width: 20%;
+	min-width: 200px;
+	max-width: 300px;
+}
+
+.column-50 {
+	float: left;
+	width: 50%;
+	min-width: 200px;
+	max-width: 750px;
+}
+
+.faucet {
+	float: left;
+	width: 60%;
+	min-width: 400px;
+}
+
+section {
+	width: 100%;
+}
+
+footer {
+	background-color: #36393f;
+	text-align: left;
+	float: left;
+	width: 100%;
+	color: whitesmoke;
+}
+
+.copyright-text {
+	margin-top: 29px;
+	margin-bottom: 29px;
+	margin-left: 30px;
+	margin-right: 30px;
+}
+
+.footer-column {
+	margin-top: 29px;
+	margin-bottom: 29px;
+	margin-left: 30px;
+	margin-right: 30px;
+}
+
+a:link {
+	color: lightgrey;
+}
+
+a:visited {
+	color: lightgrey;
+}
+
+#faucet_alert {
+	border: 2 px dotted green;
+	margin-top: 20px;
+}
+
+#faucet_link {
+	margin-top: 20px;
+	padding-top: 50px;
+	padding-bottom: 50px;
+	padding-left: 20px;
+	padding-right: 20px;
+	border: 2px dotted black;
+}
+
+#faucet_link a {
+	border: 2px groove whitesmoke;
+	color: blue;
+	-webkit-box-shadow: 3px 3px 3px #ddd;
+	-moz-box-shadow: 3px 3px 3px #ddd;
+	box-shadow: 3px 3px 3px #ddd;
+	font-size: 21px;
+}
+
+#faucet_link a:hover {
+	border: 2px groove whitesmoke;
+	color: blue;
+	-webkit-box-shadow: 5px 5px 5px #ddd;
+	-moz-box-shadow: 5px 5px 5px #ddd;
+	box-shadow: 5px 5px 5px #ddd;
+	font-size: 22px;
+	transition-duration: 0.2s;
+}
+
+#faucet_link2 {
+	margin-top: 20px;
+	padding-top: 50px;
+	padding-bottom: 50px;
+	padding-left: 20px;
+	padding-right: 20px;
+	border: 2px dotted black;
+}
+
+#faucet_link2 a {
+	border: 2px groove whitesmoke;
+	color: blue;
+	-webkit-box-shadow: 3px 3px 3px #ddd;
+	-moz-box-shadow: 3px 3px 3px #ddd;
+	box-shadow: 3px 3px 3px #ddd;
+	font-size: 21px;
+}
+
+#faucet_link2 a:hover {
+	border: 2px groove whitesmoke;
+	color: blue;
+	-webkit-box-shadow: 5px 5px 5px #ddd;
+	-moz-box-shadow: 5px 5px 5px #ddd;
+	box-shadow: 5px 5px 5px #ddd;
+	font-size: 22px;
+	transition-duration: 0.2s;
+}
+
+#faucet_link3 {
+	margin-top: 20px;
+	padding-top: 50px;
+	padding-bottom: 50px;
+	padding-left: 20px;
+	padding-right: 20px;
+	border: 2px dotted black;
+}
+
+#faucet_link3 a {
+	border: 2px groove whitesmoke;
+	color: blue;
+	-webkit-box-shadow: 3px 3px 3px #ddd;
+	-moz-box-shadow: 3px 3px 3px #ddd;
+	box-shadow: 3px 3px 3px #ddd;
+	font-size: 21px;
+}
+
+#faucet_link3 a:hover {
+	border: 2px groove whitesmoke;
+	color: blue;
+	-webkit-box-shadow: 5px 5px 5px #ddd;
+	-moz-box-shadow: 5px 5px 5px #ddd;
+	box-shadow: 5px 5px 5px #ddd;
+	font-size: 22px;
+	transition-duration: 0.2s;
+}
+
+#faucet_wrap {
+	margin-top: 20px;
+}
+
+#faucet_wrap2 {
+	margin-top: 20px;
+}
+
+#faucet_wrap3 {
+	margin-top: 20px;
+}
+
+#iframe-faucet {
+	height: -webkit-fill-available;
+	width: -webkit-fill-available;
+	min-height: 100vh;
+}
