@@ -244,4 +244,5 @@ a:visited {
 
 #_ad_banner a img {
 	border: 1px solid #f5f5f5;
+	max-width: 468px;
 }
