@@ -249,5 +249,5 @@ a:visited {
 #iframe-faucet {
 	height: -webkit-fill-available;
 	width: -webkit-fill-available;
-	min-height: 100vh;
+	min-height: calc(100vh - 218px);
 }
