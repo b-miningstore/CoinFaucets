@@ -68,6 +68,9 @@ body {
 	font-size: 16px;
 	text-align: center;
 	margin: 0px;
+	position: relative;
+	min-height: 100vh;
+	padding-bottom: 148px;
 }
 
 .sidebar-left {
@@ -116,6 +119,8 @@ footer {
 	float: left;
 	width: 100%;
 	color: whitesmoke;
+	position: absolute;
+	bottom: 0;
 }
 
 .copyright-text {
