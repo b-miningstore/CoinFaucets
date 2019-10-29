@@ -70,7 +70,6 @@ body {
 	margin: 0px;
 	position: relative;
 	min-height: 100vh;
-	padding-bottom: 148px;
 }
 
 .sidebar-left {
@@ -119,8 +118,6 @@ footer {
 	float: left;
 	width: 100%;
 	color: whitesmoke;
-	position: absolute;
-	bottom: 0;
 }
 
 .copyright-text {
@@ -249,5 +246,5 @@ a:visited {
 #iframe-faucet {
 	height: -webkit-fill-available;
 	width: -webkit-fill-available;
-	min-height: calc(100vh - 218px);
+	min-height: calc(100vh - 221px);
 }
